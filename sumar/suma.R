@@ -20,8 +20,8 @@
 #'
 #' @export
 
-suma<-function(x,y){
- s<-x+y
- return(s)
+suma <- function(x, y) {
+  s <- x + y
+  return(s)
 }
 
